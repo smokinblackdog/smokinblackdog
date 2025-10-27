@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-An aspiring compsci student from Russia <3 Currently learning *Web Development* and *ML*
-<!--
-**smokinblackdog/smokinblackdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring compsci student from Russia <3 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Topics I'm currently interested in:
+<ul>
+  <li>
+    Web development
+  </li>
+  <li>
+    Algorithms and data structures
+  </li>
+  <li>
+    Machine learning
+  </li>
+  <li>
+    Cybersecurity and ethical hacking
+  </li>
+</ul>
