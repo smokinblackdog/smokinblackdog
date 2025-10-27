@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+An aspiring compsci student from Russia <3 Currently learning *Web Development* and *ML*
 <!--
 **smokinblackdog/smokinblackdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
