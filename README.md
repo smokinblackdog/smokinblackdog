@@ -11,9 +11,9 @@ Topics I'm currently interested in:
     Algorithms and data structures
   </li>
   <li>
-    Machine learning
+    Computer vision
   </li>
   <li>
-    Cybersecurity and ethical hacking
+    Data security and cryptography
   </li>
 </ul>
