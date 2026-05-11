@@ -8,12 +8,9 @@ Topics I'm currently interested in:
     Web development
   </li>
   <li>
-    Algorithms and data structures
+    Machine learning & computer vision
   </li>
   <li>
-    Computer vision
-  </li>
-  <li>
-    Data security and cryptography
+    Data security & cryptography
   </li>
 </ul>
